@@ -61,9 +61,11 @@ Read LICENSE
 - Added new license (MIT style)
 - Smaller executables
 - Display execution time\
+
 1.1
 - Added support for wildcards
 - Added ARM version of decompressor\
+
 1.0
 - Initial release
 
